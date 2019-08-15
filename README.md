@@ -1,2 +1,2 @@
 # Snake-Game
-snake game written in java
+a simple snake game with moving bait
